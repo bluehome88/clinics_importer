@@ -1,0 +1,24 @@
+2016-03-29:05-56-01 : /Volumes/MDATA/treatment/wp-content/plugins/clinics_importer/includes/class-admin-page.php render() function
+
+2016-03-29:05-56-01 : view-admin-main.php rendered()
+2016-03-29:05-56-01 :  view-admin-icp-pract.php was rendered
+2016-03-29:05-56-19 : /Volumes/MDATA/treatment/wp-content/plugins/clinics_importer/includes/class-admin-page.php render() function
+
+2016-03-29:05-56-19 : view-admin-main.php rendered()
+2016-03-29:05-56-19 :  view-admin-icp-clinics.php was rendered
+2016-03-29:06-00-44 : ICP_Aadmin_Page Class render function
+
+2016-03-29:06-00-44 : view-admin-main.php line (11)
+2016-03-29:06-01-03 : ICP_Aadmin_Page Class render function
+
+2016-03-29:06-01-03 : view-admin-main.php line (11)
+2016-03-29:06-03-01 : ICP_Aadmin_Page Class render function
+
+2016-03-29:06-03-01 : view-admin-main.php line (11)
+2016-03-29:06-03-23 : ICP_Aadmin_Page Class render function
+
+2016-03-29:06-03-23 : view-admin-main.php line (11)
+2016-03-29:06-04-15 : ICP_Aadmin_Page Class render function
+
+2016-03-29:06-04-15 : view-admin-main.php line (11)
+
