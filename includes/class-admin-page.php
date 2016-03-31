@@ -4,8 +4,6 @@ class ICP_Admin_Page{
 
 	public static function render(){
 
-		icp_log( "ICP_Aadmin_Page Class render function\n\r");
-
 		$current_tab = !empty( $_REQUEST['tab']) ? sanitize_title( $_REQUEST['tab']) : 'clinics';
 
 		require_once( PLUGIN_DIR . '/includes/class-import-clinics.php');

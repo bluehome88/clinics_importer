@@ -8,8 +8,6 @@ if( !defined('ABSPATH')){
 	exit;
 }
 
-icp_log( "view-admin-main.php line (11)" );
-
 ?>
 
 <div class="wrap icp_main">
@@ -25,6 +23,7 @@ icp_log( "view-admin-main.php line (11)" );
         </h2>
 
 		<?php
+			do_action('icp_sections_' . $current_tab);
 			do_action('icp_configuration_'.$current_tab);
 			do_action('icp_configuration_tabs_'.$current_tab);
 		?>        

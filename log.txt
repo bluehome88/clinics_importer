@@ -1,24 +1,31 @@
-2016-03-29:05-56-01 : /Volumes/MDATA/treatment/wp-content/plugins/clinics_importer/includes/class-admin-page.php render() function
-
-2016-03-29:05-56-01 : view-admin-main.php rendered()
-2016-03-29:05-56-01 :  view-admin-icp-pract.php was rendered
-2016-03-29:05-56-19 : /Volumes/MDATA/treatment/wp-content/plugins/clinics_importer/includes/class-admin-page.php render() function
-
-2016-03-29:05-56-19 : view-admin-main.php rendered()
-2016-03-29:05-56-19 :  view-admin-icp-clinics.php was rendered
-2016-03-29:06-00-44 : ICP_Aadmin_Page Class render function
-
-2016-03-29:06-00-44 : view-admin-main.php line (11)
-2016-03-29:06-01-03 : ICP_Aadmin_Page Class render function
-
-2016-03-29:06-01-03 : view-admin-main.php line (11)
-2016-03-29:06-03-01 : ICP_Aadmin_Page Class render function
-
-2016-03-29:06-03-01 : view-admin-main.php line (11)
-2016-03-29:06-03-23 : ICP_Aadmin_Page Class render function
-
-2016-03-29:06-03-23 : view-admin-main.php line (11)
-2016-03-29:06-04-15 : ICP_Aadmin_Page Class render function
-
-2016-03-29:06-04-15 : view-admin-main.php line (11)
+2016-03-31:05-47-30 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-47-30 : includes/class-import-pract.php(30) Importing Practitioners Started
+2016-03-31:05-48-06 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-48-06 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-48-18 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-48-18 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-48-29 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-48-29 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-49-03 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-49-03 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-49-35 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-49-35 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-49-56 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-49-56 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-50-14 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-50-14 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-50-30 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-50-30 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-52-05 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-52-05 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-52-26 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-52-26 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-52-33 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-52-33 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-52-39 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-52-39 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-55-04 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-55-04 : includes/class-import-clinics.php(31) Importing Clinics Started
+2016-03-31:05-56-16 : function,php(28) CSV file was Uploaded 
+2016-03-31:05-56-16 : includes/class-import-clinics.php(31) Importing Clinics Started
 

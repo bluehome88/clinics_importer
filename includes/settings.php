@@ -6,3 +6,4 @@ if( !defined('ABSPATH')){
 
 define("PLUGIN_VERSION", '1.0.0');
 define("PLUGIN_DIR_NAME", 'clinics_importer');
+define("UPLOAD_DIR", PLUGIN_DIR."/uploads/");

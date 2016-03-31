@@ -13,7 +13,7 @@ class ICP_Admin_Menu{
 
 	public function icp_add_menu(){
 
-		add_submenu_page( 'edit.php?post_type=clinic', 'Import Data', 'Import Data', 'edit_posts', 'icp', array( $this, 'icp_admin_page') );
+		add_submenu_page( 'edit.php?post_type=clinic', 'Import Data', 'Import Data', 'edit_posts', 'icp', array( $this, 'icp_admin_page'));
 	}
 
 	public function icp_admin_page()
